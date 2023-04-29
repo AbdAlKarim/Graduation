@@ -71,7 +71,7 @@ const data = [
   {"name":"د. يارا الدبَاكة","link":"https://yarahatem99.daftarna.net/","image":"./assets/48.jpg"},
   {"name":"د.شهد مسلم","link":"https://shahd-m-musallam-1682437151.daftarna.net/","image":"./assets/47.jpg"},
   {"name":"د. نور أبو شاويش","link":"https://nour999.daftarna.net/","image":"./assets/61.png"}, 
-  {"name":"د.أحلام شاهين","link":"https://ahlam-shahyn-1682438635.daftarna.net/","image":"./assets/61.PNG"},
+  {"name":"د.أحلام شاهين","link":"https://ahlam-shahyn-1682438635.daftarna.net/","image":"/assets/61.PNG"},
   {"name":"د.هلا الحلاق","link":"https://Hala199.daftarna.net/","image":"./assets/61.PNG"},
   {"name":"د.آية ياسين","link":"https://aya-yassin-1682441549.daftarna.net/","image":"./assets/61.PNG"},
   {"name":"د. رندا حسين","link":"https://randa-hussein-1682270551.daftarna.net/","image":"./assets/61.png"},
