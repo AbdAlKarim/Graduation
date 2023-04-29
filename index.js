@@ -14,8 +14,6 @@ const data = [
   {"name":"د. عمر النجار","link":"https://omarnajjar.daftarna.net/","image":"./assets/28.PNG"},
   {"name":"د. أحمد حبوب","link":"https://ahmedhabboub1.daftarna.net/","image":"./assets/2.jpg"},
   {"name":"د. لانا ابراهيم","link":"https://lana-jamal-1682249411.daftarna.net/","image":"./assets/18.PNG"},
-  {"name":"د. لانا ابراهيم","link":"https://lana-jamal-1682249411.daftarna.net/","image":"./assets/18.PNG"},
-  {"name":"د. لانا ابراهيم","link":"https://lana-jamal-1682249411.daftarna.net/","image":"./assets/18.PNG"},
   {"name":"د. سلسبيل عابد","link":"https://slsbyl-aaabd-1682249310.daftarna.net/","image":"./assets/14.PNG"},
   {"name":"د. محمد أبو عبدو","link":"https://mohamedaboabdo.daftarna.net/","image":"./assets/32.PNG"},
   {"name":"د. محمود المدهون","link":"https://mahmoud-madhoun.daftarna.net/.","image":"./assets/66.PNG"},
