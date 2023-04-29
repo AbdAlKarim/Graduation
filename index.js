@@ -73,7 +73,7 @@ const data = [
   {"name":"د. نور أبو شاويش","link":"https://nour999.daftarna.net/","image":"./assets/61.png"}, 
   {"name":"د.أحلام شاهين","link":"https://ahlam-shahyn-1682438635.daftarna.net/","image":"./assets/99.PNG"},
   {"name":"د.هلا الحلاق","link":"https://Hala199.daftarna.net/","image":"./assets/99.PNG"},
-  {"name":"د.آية ياسين","link":"https://aya-yassin-1682441549.daftarna.net/","image":"./assets/99.PNG"},
+  {"name":"د.آية ياسين","link":"https://aya-yassin-1682441549.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. رندا حسين","link":"https://randa-hussein-1682270551.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. مريم شاهين","link":"https://mrym-asam-shahyn-1681590044.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. أُلفت الراعي","link":"https://olfat-eraee-1682248891.daftarna.net/","image":"./assets/61.png"},
