@@ -78,6 +78,7 @@ const data = [
   {"name":"د. مريم شاهين","link":"https://mrym-asam-shahyn-1681590044.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. أُلفت الراعي","link":"https://olfat-eraee-1682248891.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. بيسان أبو دية","link":"https://bissane.daftarna.net/","image":"./assets/61.png"}
+  {"name":"د. بيسان أبو دية","link":"https://bissane.daftarna.net/","image":"./assets/61.png"}
 ]
 
 const cards = document.getElementById('cards');
