@@ -6,7 +6,7 @@ const data = [
   {"name":"د. شادي الجرجاوي","link":"https://shadi-aljerjawi.daftarna.net/.","image":"./assets/38.jpg"},
   {"name":"د. أماني السطري","link":"https://amani-s-alsattari-1673476074.daftarna.net/","image":"./assets/64.PNG"},  
   {"name":"د. ربا شقورة","link":"https://rubags.daftarna.net/","image":"./assets/61.png"},
-  {"name":"د. آلاء هليل","link":"https://alaa-heliel.daftarna.net/.","image":"./assets/100.JPG"},
+  {"name":"د. آلاء هليل","link":"https://alaa-heliel.daftarna.net/.","image":"./assets/61.png"},
   {"name":"د. سمر البطة","link":"https://samar-albatta-1681667297.daftarna.net/","image":"./assets/19.PNG"},
   {"name":"د. محمود الشرفا","link":"https://drmahmoudhamad.daftarna.net/","image":"./assets/36.PNG"},  
   {"name":"د. علي الهباش","link":"https://aliwael.daftarna.net/","image":"./assets/35.PNG"},
