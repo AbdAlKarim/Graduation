@@ -13,7 +13,7 @@ const data = [
   {"name":"د. يوسف الفرا","link":"https://yousef-farra-1682251468.daftarna.net/","image":"./assets/29.PNG"},
   {"name":"د. عمر النجار","link":"https://omarnajjar.daftarna.net/","image":"./assets/28.PNG"},
   {"name":"د. أحمد حبوب","link":"https://ahmedhabboub1.daftarna.net/","image":"./assets/2.jpg"},
-  {"name":"د. آلاء كحيل","link":"https://alaa-kuheil.daftarna.net/.","image":"./assets/61.PNG"},
+  {"name":"د. شيماء حمد","link":"https://shjhamad.daftarna.net/","image":"./assets/61.PNG"},
   {"name":"د. شيماء حمد","link":"https://shjhamad.daftarna.net/","image":"./assets/61.PNG"},
   {"name":"د. لانا ابراهيم","link":"https://lana-jamal-1682249411.daftarna.net/","image":"./assets/18.PNG"},
   {"name":"د. سلسبيل عابد","link":"https://slsbyl-aaabd-1682249310.daftarna.net/","image":"./assets/14.PNG"},
