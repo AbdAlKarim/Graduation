@@ -64,7 +64,7 @@ const data = [
   {"name":"د.ديما البرقوني","link":"https://dimaalbarqouni.daftarna.net/","image":"./assets/46.PNG"},
   {"name":"د.ضحى عبدالباري","link":"https://douha-abed-1682271728.daftarna.net/","image":"./assets/43.PNG"},
   {"name":"د.سارة ارحيم","link":"https://sarairheem.daftarna.net/","image":"./assets/41.PNG"},
-  {"name":"د. مرح أبو سلمية","link":"https://marahma99.daftarna.net/","image":"./assets/34.PNG"},
+  {"name":"د. مرح أبو سلمية","link":"https://marahma99.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. نور  قنبور","link":"https://nourmoh98.daftarna.net/","image":"./assets/61.png"},
   {"name":"د. ربا اسماعيل","link":"https://rubasismail.daftarna.net/","image":"./assets/55.jpg"},
   {"name":"د. شروق طبش","link":"https://shorouqe-tabash-1682252548.daftarna.net/","image":"./assets/50.jpg"},
